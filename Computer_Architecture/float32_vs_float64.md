@@ -8,11 +8,12 @@
 ### float32 vs float64
 
 쉽게 말해서, 소수를 표현하는 데 얼마나 메모리를 할당한건지에 따라 달려있다.  
-float32는 가수 x 2^(지수) 형태를 표현하는 데 32비트(4바이트)를 할당한다.  
-<img width="1045" height="436" alt="image" src="https://github.com/user-attachments/assets/3237b9df-6d73-4c6e-8597-ca74f39a7277" />
+float32는 가수 x 2^(지수) 형태를 표현하는 데 32비트(4바이트)를 할당한다.    
+<img width="978" height="367" alt="image" src="https://github.com/user-attachments/assets/374e2e06-bec7-4e0d-9078-7c143dce4998" />
 
-float64는 가수 x 2^(지수) 형태를 표현하는 데 64비트(8바이트)를 할당한다.  
-<img width="1023" height="390" alt="image" src="https://github.com/user-attachments/assets/bcf47df3-17ca-4fa2-bd04-ba1832b9e2df" />
+
+float64는 가수 x 2^(지수) 형태를 표현하는 데 64비트(8바이트)를 할당한다.    
+<img width="1001" height="383" alt="image" src="https://github.com/user-attachments/assets/f37fac50-6572-4c5b-9727-885f7ab60aac" />
 
 
 1. 소수의 부호를 판단하는 1비트가 float32와 float64 메모리의 맨 앞단에 붙는다.  
