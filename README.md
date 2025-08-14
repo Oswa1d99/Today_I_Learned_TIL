@@ -7,6 +7,7 @@
 - [Backtracking](Algorithm/Backtracking.md)
 
 ### 📂 Computer_Architecture
+- [CISC_RISC_Pipelining](Computer_Architecture/CISC_RISC_Pipelining.md)
 - [float32_vs_float64](Computer_Architecture/float32_vs_float64.md)
 
 ---
