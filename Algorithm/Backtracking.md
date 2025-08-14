@@ -108,3 +108,8 @@ print(count)
 
 백트래킹의 시간 복잡도는 최악의 상황에서 (N-Queens 함수의 호출 횟수) * (각 호출에서 노드 방문 횟수) = O(N) * O(N!) = O(N!) 이지만, 
 가지치기를 이용한 덕분에 실제 작동 시간은 이보다 적다.
+
+---
+Reference:  
+https://youtu.be/z4wKvYdd6wM  
+https://www.geeksforgeeks.org/dsa/4-queens-problem/
