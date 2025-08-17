@@ -10,4 +10,7 @@
 - [CISC_RISC_Pipelining](Computer_Architecture/CISC_RISC_Pipelining.md)
 - [float32_vs_float64](Computer_Architecture/float32_vs_float64.md)
 
+### 📂 Deep_Learning
+- [Layer_Normalization](Deep_Learning/Layer_Normalization.md)
+
 ---
