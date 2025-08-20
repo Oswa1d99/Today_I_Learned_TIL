@@ -11,6 +11,6 @@
 - [float32_vs_float64](Computer_Architecture/float32_vs_float64.md)
 
 ### 📂 Deep_Learning
-- [Layer_Normalization](Deep_Learning/Layer_Normalization.md)
+- [Batch_Normalization](Deep_Learning/Batch_Normalization.md)
 
 ---
