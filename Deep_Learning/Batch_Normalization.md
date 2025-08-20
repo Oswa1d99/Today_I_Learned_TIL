@@ -11,7 +11,7 @@ RNN부터 이어져 온 시퀀스 모델의 공식과도 같았던 Layer Normali
 3. 이후에 감마라는 Scaling Factor를 곱하고, 베타라는 Shift Factor를 더한다.  
    <img width="323" height="110" alt="image" src="https://github.com/user-attachments/assets/65bfe5df-ab0a-4660-bca9-3101f45b5bde" />
 
-4. 훈련 세트에 대해 역전파를 진행할 때, 가중치 행렬과 마찬가지로 배치 정규화의 파라미터인 감마와 베타도 학습에 포함된다.  
+4. 훈련 세트에 대해 역전파를 진행할 때, 가중치 행렬과 마찬가지로 배치 정규화의 파라미터인 감마와 베타도 학습에 포함된다.
 
 배치 정규화가 실제로 어떻게 이루어지는지 아래의 간단한 신경망을 통해서 알아보자. (BATCH_SIZE = 16)
 
