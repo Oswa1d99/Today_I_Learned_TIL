@@ -12,5 +12,6 @@
 
 ### 📂 Deep_Learning
 - [Batch_Normalization](Deep_Learning/Batch_Normalization.md)
+- [LayerNorm_InstanceNorm_GroupNorm](Deep_Learning/LayerNorm_InstanceNorm_GroupNorm.md)
 
 ---
