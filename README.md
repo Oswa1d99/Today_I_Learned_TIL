@@ -6,10 +6,10 @@
 ### 📂 Algorithm
 - [Backtracking](Algorithm/Backtracking.md)
 
-### 📂 Computer_Architecture
-- [CISC_RISC_Pipelining](Computer_Architecture/CISC_RISC_Pipelining.md)
-- [Process_Thread](Computer_Architecture/Process_Thread.md)
-- [float32_vs_float64](Computer_Architecture/float32_vs_float64.md)
+### 📂 Computer_System
+- [CISC_RISC_Pipelining](Computer_System/CISC_RISC_Pipelining.md)
+- [Process_Thread](Computer_System/Process_Thread.md)
+- [float32_vs_float64](Computer_System/float32_vs_float64.md)
 
 ### 📂 Deep_Learning
 - [Batch_Normalization](Deep_Learning/Batch_Normalization.md)
