@@ -8,6 +8,7 @@
 
 ### 📂 Computer_Architecture
 - [CISC_RISC_Pipelining](Computer_Architecture/CISC_RISC_Pipelining.md)
+- [Process_Thread](Computer_Architecture/Process_Thread.md)
 - [float32_vs_float64](Computer_Architecture/float32_vs_float64.md)
 
 ### 📂 Deep_Learning
